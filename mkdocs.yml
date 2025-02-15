@@ -1,0 +1,19 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - FAQs: faq.md
+  - Troubleshooting: troubleshooting.md
+
+plugins:
+  - search
+  - glightbox
+
+repo_url: https://github.com/yourusername/mydocs
