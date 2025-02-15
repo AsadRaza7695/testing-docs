@@ -1,3 +1,3 @@
 # SMARK Introduction
 
-Welcome to the revolutionary browser monitoring tool
+Welcome to the revolutionary browser monitoring tool.

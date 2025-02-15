@@ -1,0 +1,55 @@
+site_name: SMARK ENTERPRISE
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: custom
+      accent: blue
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: custom
+      accent: blue
+
+extra_css:
+  - source/stylesheets/extra.css
+
+plugins:
+  - search
+  - glightbox
+
+
+nav:
+  - Home: source/index.md
+  - Introduction: source/introduction.md
+  - Community Version: source/communityversion.md
+  - Enterprise:
+      - Overview: source/enterprise/index.md
+      - FAQs: source/enterprise/faqs.md
+      - Troubleshooting: source/enterprise/troubleshoot.md
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/AsadRaza7695" target="_blank" rel="noopener">SMARK</a>
+
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com
+    - icon: fontawesome/brands/github
+      link: https://github.com

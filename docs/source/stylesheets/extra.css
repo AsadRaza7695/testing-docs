@@ -1,0 +1,15 @@
+:root {
+	--md-primary-fg-color: #0dcaf0;
+}
+.md-header__button.md-logo img {
+    height: 1.5rem; /* Increase the height */
+    width: auto;  /* Maintain aspect ratio */
+}
+
+.md-header__button.md-logo {
+    padding: 0 /* Add padding if necessary */
+}
+.md-footer {
+	--md-footer-bg-color--dark: #0dcaf0;
+	--md-footer-fg-color--light: white;
+}
