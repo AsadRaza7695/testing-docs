@@ -11,6 +11,5 @@ Welcome to Browsermon Enterprise's documentation!
    :caption: Contents:
 
    introduction.md
-   communityversion.md
    enterprise/index.rst
 
