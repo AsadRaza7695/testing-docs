@@ -34,7 +34,7 @@ plugins:
 
 
 nav:
-  - Home: source/index.md
+  - Home: index.md
   - Introduction: source/introduction.md
   - Community Version: source/communityversion.md
   - Enterprise:
