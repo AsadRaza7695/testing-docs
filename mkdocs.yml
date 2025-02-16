@@ -35,12 +35,12 @@ plugins:
 
 nav:
   - Home: index.md
-  - Introduction: source/introduction.md
-  - Community Version: source/communityversion.md
+  - Introduction: introduction.md
+  - Community Version: communityversion.md
   - Enterprise:
-      - Overview: source/enterprise/index.md
-      - FAQs: source/enterprise/faqs.md
-      - Troubleshooting: source/enterprise/troubleshoot.md
+      - Overview: enterprise/index.md
+      - FAQs: enterprise/faqs.md
+      - Troubleshooting: enterprise/troubleshoot.md
 
 copyright: |
   &copy; 2025 <a href="https://github.com/AsadRaza7695" target="_blank" rel="noopener">SMARK</a>
